@@ -37,7 +37,7 @@ A passionate BCA student and aspiring AI developer who loves building intelligen
 
 ## 📂 Project Experience
 
-### 🤖 Rex AI Assistant
+### 🤖 jarvis AI Assistant
 Personal voice assistant with:
 - Wake word detection  
 - Voice input and speech output  
